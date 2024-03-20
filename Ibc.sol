@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 
 import {Strings} from "@openzeppelin/contracts/utils/Strings.sol";
 import {ProtoChannel, ProtoCounterparty} from "proto/channel.sol";
-import {Base64} from "PolymerBridgeCross/base64/base64.sol";
+import {Base64} from "https://github.com/iamzfx/forfuckingsake/blob/master/base64.sol";
 
 /**
  * Ibc.sol
