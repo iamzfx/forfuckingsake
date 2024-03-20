@@ -2,8 +2,8 @@
 
 pragma solidity ^0.8.9;
 
-import {Strings} from "@openzeppelin/contracts/utils/Strings.sol";
-import {ProtoChannel, ProtoCounterparty} from "proto/channel.sol";
+import {Strings} from "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Strings.sol";
+import {ProtoChannel, ProtoCounterparty} from "https://github.com/iamzfx/forfuckingsake/blob/master/proto/channel.sol";
 import {Base64} from "https://github.com/iamzfx/forfuckingsake/blob/master/base64.sol";
 
 /**
